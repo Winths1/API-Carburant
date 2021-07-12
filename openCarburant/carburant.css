@@ -1,0 +1,54 @@
+#bod {
+    background-image: url(./industry-1530608_1920.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size:200%;
+}
+
+#machinchose{
+    margin-top: 5%;
+}
+
+#carburant{
+    padding: 2%;
+}
+
+#form{
+    width: 50%;
+    text-align: center;
+}
+
+/* fieldset{
+    display: flex;
+    height: 150px;
+    flex-direction: column;
+    justify-content: space-around;
+} */
+
+/* #form{
+    font-size: 18px;
+    display: flex;
+    width: 200px;
+    margin: 1% auto;
+    text-align: center;
+} */
+
+#main{
+    border: 2px solid black;
+    box-shadow: 0px 0px 10px black;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#city{
+    text-align: center;
+    border-radius: 5px;
+    padding: 2%;
+    font-size: 18px;
+}
+option{
+    text-align: center;
+}
+#valid{
+    padding: 2%;
+    font-size: 14px;
+    border-radius: 5px;
+}
